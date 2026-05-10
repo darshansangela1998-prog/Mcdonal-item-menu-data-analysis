@@ -1,4 +1,4 @@
-
+https://github.com/darshansangela1998-prog/Mcdonal-item-menu-data-analysis/blob/58baf5548b0b7736c330f66b08f3f52652f402d3/Screenshot%202026-05-10%20205411.png
 # McDonald’s Sales Data Analysis
 
 # Project Overview
