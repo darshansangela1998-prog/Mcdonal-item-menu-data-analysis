@@ -1,4 +1,4 @@
-![img alt](<img width="1324" height="619" alt="image" src="https://github.com/user-attachments/assets/cf2d8aef-d93b-4e6f-9936-bae7db09d412" />)
+
 
 # McDonald’s Sales Data Analysis
 
